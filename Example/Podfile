@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYZBlinkingLabel_Example' do
+  pod 'LYZBlinkingLabel', :path => '../'
+
+  target 'LYZBlinkingLabel_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
