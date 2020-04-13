@@ -1,0 +1,6 @@
+framework module LYZBlinkingLabel {
+  umbrella header "LYZBlinkingLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

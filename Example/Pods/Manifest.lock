@@ -1,0 +1,16 @@
+PODS:
+  - LYZBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - LYZBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  LYZBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYZBlinkingLabel: e3ab6303e9aa658a383b4ea762967ab305e3e128
+
+PODFILE CHECKSUM: 5e889f6031bcbf03c57cd49702ac43278ae076f6
+
+COCOAPODS: 1.9.1
