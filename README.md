@@ -22,7 +22,7 @@ pod 'LYZBlinkingLabel'
 
 ## Author
 
-liyizhezhe@gmail.com, liyizhezhe@gmail.com
+liyizhezhe@gmail.com
 
 ## License
 
